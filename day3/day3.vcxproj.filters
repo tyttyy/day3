@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="day49.cpp">
+    <ClCompile Include="day50.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
   </ItemGroup>
